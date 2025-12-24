@@ -1,2 +1,0 @@
-All chapters contains code files.
-All codes are tested and working fine.
